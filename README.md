@@ -1,3 +1,3 @@
 # doomedcores
-All things realted to Doomedcores
+All things related to Doomedcores
 AND MORE!!!
